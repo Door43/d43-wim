@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wim:home|Door43 (wim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wim|d43-wim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wim/archive/master.zip|d43-wim.zip]]
+
+**Recent Changes**
+{{changes>ns = wim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wim|Ethnologue data]]
+
